@@ -13,12 +13,16 @@ if (!isset($_SESSION['role'])) {
 
 
 <ul class="tabs vertical large-3 columns" data-tab style="padding:0px;">
+
 	<h3 style="padding-left:15px;">Actions</h3>
 
 	<li class="tab-title"><a href="#panel1">Dispatcher</a></li>
 	<li class="tab-title"><a href="#panel2">Onboarding Mechanics</a></li>
 	<li class="tab-title"><a href="#panel3">Report Issue</a></li>
 	<li class="tab-title"><a href="#panel4">Tools</a></li>
+	<div class="text-center">
+		<img src="img/oht-callcenter.png" alt="oht-logo" style="max-height:200px;" class="imgrndcrn">
+	</div>
 </ul>
 
 
