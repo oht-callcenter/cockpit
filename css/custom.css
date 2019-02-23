@@ -1,0 +1,38 @@
+.imgrndcrn{
+	
+	margin:50px 0px 10px 0px;
+	border-radius:10px;
+	
+}
+
+.actionables{
+background:#f4f4f4;	
+border:3px solid #eee;	
+text-align:center;
+border-radius:5px;
+padding:20px;
+font-family:verdana;
+height:350px;
+margin-left:10px;
+margin-bottom:20px;
+}
+
+.actionables span{
+font-size:28px;	
+margin-left:10px;
+}
+
+.actionables a{
+text-align:center;
+}
+
+.deeperDig{
+width:50px;
+height:60px;
+line-height:50px;
+border-radius:49%;
+color:#fff;
+background:#333;
+padding:10px;
+bottom: 0;	
+}
